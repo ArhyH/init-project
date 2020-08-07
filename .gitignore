@@ -7,5 +7,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+design/
+node_modules
 *.psd
-*.jpg
+source/css/*.css
+source/css/*.css.map
+!source/css/normalize.css
